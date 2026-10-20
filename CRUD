@@ -1,0 +1,17 @@
+## Introduction
+
+A credit application is a secure, straightforward way for an individual or business to request credit and provide the information needed for review. It should explain what the application is for, what information is required, how that information will be used, and what happens after submission. A thoughtful design makes the process clear and accessible for applicants while supporting consistent, responsible decision-making by reviewers.
+
+## Things to Consider
+
+- **Define the scope:** Identify the credit products, applicant types, and review workflows the application will support.
+- **Collect only necessary information:** Request relevant details, explain why they are needed, and mark required and optional fields clearly.
+- **Provide clear disclosures:** Explain applicable terms, fees, privacy practices, and authorizations in plain language before applicants submit.
+- **Protect sensitive data:** Use secure transmission and storage, role-based access, appropriate retention and deletion practices, and secure communication channels.
+- **Make it accessible and easy to use:** Support mobile devices and assistive technologies; use clear instructions, helpful validation, and options to save and return.
+- **Support accurate submissions:** Validate formats, allow applicants to review and correct entries, and provide a clear confirmation after submission.
+- **Use fair, consistent review practices:** Document decision criteria, apply them consistently, and provide appropriate notices and review options as required.
+- **Plan the operational workflow:** Define statuses, staff responsibilities, document handling, expected timelines, and how applicants can ask questions.
+- **Maintain accountability:** Keep appropriate audit records, monitor system reliability, and establish a process for correcting errors and updating policies.
+- **Check legal and regulatory requirements:** Consult qualified legal and compliance professionals about applicable lending, privacy, accessibility, and recordkeeping obligations.
+- **Test before launch:** Evaluate usability, accessibility, security, data handling, and end-to-end review workflows, then revisit them regularly.
